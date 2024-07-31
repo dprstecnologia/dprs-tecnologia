@@ -1,20 +1,17 @@
-<h2>Fala Dev!! :clap:</h2>
+Fala Dev!! :clap:
+Meu nome é Diogo Pereira dos Santos, tenho 33 anos e sou um profissional apaixonado por Tecnologia. 
+Com 10 anos de experiência na área de TI, atuei em diversos campos, incluindo Suporte, Infraestrutura e Dados/BI.
 
-<!--
-**dprstecnologia/dprstecnologia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Atualmente, estou me especializando em Desenvolvimento Full Stack, com o objetivo de crescer profissionalmente em um campo que combina teoria e prática.
 
-Here are some ideas to get you started:
+Motivado pela minha constante busca por novos desafios, estou em transição de carreira da área de Dados para o mundo do Dev. 
+Essa mudança reflete minha vontade de explorar um universo de grandes transformações e desafios.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Para alcançar esses novos objetivos, iniciei minha jornada de aprendizado no DevClub - Trilha de Desenvolvedor Full Stack Pro. 
+Estou determinado a desenvolver minhas habilidades e construir uma carreira sólida na área de Desenvolvimento.
 
+Languages Tools:
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
--->
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
