@@ -12,6 +12,7 @@ Essa mudança reflete minha vontade de explorar um universo de grandes transform
 Para alcançar esses novos objetivos, iniciei minha jornada de aprendizado no DevClub - Trilha de Desenvolvedor Full Stack Pro. 
 Estou determinado a desenvolver minhas habilidades e construir uma carreira sólida na área de Desenvolvimento.
 <br>
+<br>
 Languages Tools:
 <br>
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
